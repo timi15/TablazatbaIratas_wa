@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+}
+
+
+.container{
+    background-color: bisque;
+}
+
+
+h1{
+    text-align: center;
+    color:red;
+}
+
+table{
+
+    margin:auto;
+ 
+
+}
+td{
+    border: 1px solid black;
+    border-collapse:  center;
+    width:50px;
+}
